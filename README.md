@@ -36,5 +36,5 @@ Berikut tampilan utama aplikasi:
 - Tampilan Riwayat Hidup:  
   ![Tampilan Riwayat Hidup](public/assets/screenshots/ss4.png)
 
-- Tampilan Riwayat Pendidikan:  
+- Tampilan Riwayat game:  
   ![Tampilan Riwayat Pendidikan](public/assets/screenshots/ss5.png)
