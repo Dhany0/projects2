@@ -20,7 +20,7 @@ Buatlah repository dengan nama project2 pada GitHub
 **Program Studi:** [Teknik Informatika]  
 **Universitas:** Universitas Nahdlatul Ulama Indonesia (UNUSIA)
 
-## 🖼️ Screenshot Hasil
+## Screenshot Hasil
 
 Berikut tampilan utama aplikasi:
 
