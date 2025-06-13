@@ -19,3 +19,22 @@ Buatlah repository dengan nama project2 pada GitHub
 **NIM:** [22260016]  
 **Program Studi:** [Teknik Informatika]  
 **Universitas:** Universitas Nahdlatul Ulama Indonesia (UNUSIA)
+
+## 🖼️ Screenshot Hasil
+
+Berikut tampilan utama aplikasi:
+
+- Tampilan Web Utama:  
+  ![Tampilan Web Utama](public/assets/screenshots/to1.jpg)
+
+- Tampilan Tentang Saya:  
+  ![Tampilan Tentang Saya](public/assets/screenshots/to2.jpg)
+
+- Tampilan Skill:  
+  ![Tampilan Skill](public/assets/screenshots/to3.jpg)
+
+- Tampilan Riwayat Hidup:  
+  ![Tampilan Riwayat Hidup](public/assets/screenshots/to4.jpg)
+
+- Tampilan Riwayat Pendidikan:  
+  ![Tampilan Riwayat Pendidikan](public/assets/screenshots/to5.jpg)
