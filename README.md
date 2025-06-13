@@ -25,16 +25,16 @@ Buatlah repository dengan nama project2 pada GitHub
 Berikut tampilan utama aplikasi:
 
 - Tampilan Web Utama:  
-  ![Tampilan Web Utama](public/assets/screenshots/to1.jpg)
+  ![Tampilan Web Utama](public/assets/screenshots/ss1.png)
 
 - Tampilan Tentang Saya:  
-  ![Tampilan Tentang Saya](public/assets/screenshots/to2.jpg)
+  ![Tampilan Tentang Saya](public/assets/screenshots/ss2.png)
 
 - Tampilan Skill:  
-  ![Tampilan Skill](public/assets/screenshots/to3.jpg)
+  ![Tampilan Skill](public/assets/screenshots/ss3.png)
 
 - Tampilan Riwayat Hidup:  
-  ![Tampilan Riwayat Hidup](public/assets/screenshots/to4.jpg)
+  ![Tampilan Riwayat Hidup](public/assets/screenshots/ss4.png)
 
 - Tampilan Riwayat Pendidikan:  
-  ![Tampilan Riwayat Pendidikan](public/assets/screenshots/to5.jpg)
+  ![Tampilan Riwayat Pendidikan](public/assets/screenshots/ss5.png)
