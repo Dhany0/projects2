@@ -19,12 +19,3 @@ Buatlah repository dengan nama project2 pada GitHub
 **NIM:** [22260016]  
 **Program Studi:** [Teknik Informatika]  
 **Universitas:** Universitas Nahdlatul Ulama Indonesia (UNUSIA)
-
-
-## 🚀 Fitur Utama
-
-- Profil singkat
-- Riwayat pendidikan dan pengalaman
-- Daftar portofolio project
-- Form kontak
-- Tampilan modern berbasis template MyResume
